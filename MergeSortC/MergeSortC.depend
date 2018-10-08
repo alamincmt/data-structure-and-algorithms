@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538991502 source:/home/user/Al-Amin-Files/data-structure-and-algorithms/MergeSortC/main.c
+	<stdlib.h>
+	<stdio.h>
+
